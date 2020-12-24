@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Mark's github stats](https://github-readme-stats.vercel.app/api?username=mspangler&count_private=true&show_icons=true&hide_border=true&theme=default&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Mark's github stats](https://github-readme-stats.vercel.app/api?username=mspangler&count_private=true&show_icons=true&hide_border=true&theme=dark&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mspangler/mspangler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
